@@ -19,8 +19,7 @@ Email: qiuwenda [at] sjtu [dot] edu [dot] cn
 Education
 ======
 - B.S. in **Shanghai Jiao Tong University** from 2015.9 to 2019.6 (expected)
-
-  **ACM Honors Class**, **Zhiyuan College**, Department of Computer Science
+  - **ACM Honors Class**, **Zhiyuan College**, Department of Computer Science
 
 Experience
 ======
