@@ -80,9 +80,9 @@ analytics:
 # Site Author
 author:
   name             : "Wenda Qiu"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : 
-  location         : "800 Dongchuan Road Shanghai China"
+  location         : "Shanghai, China"
   employer         :
   googlescholar    : 
   email            : "qiuwenda@sjtu.edu.cn"

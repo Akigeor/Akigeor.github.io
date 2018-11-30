@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am an undergraduate student from Shanghai Jiao Tong University (SJTU) ACM Honors Class**, **Zhiyuan College (an honors college) and major in computer science. I have a great passion on my major and enjoy conducting scientific research. I am determined to join the academia in the future.
+Hi, I am an undergraduate student from Shanghai Jiao Tong University (SJTU) ACM Honors Class, Zhiyuan College (an honors college) and major in computer science. I have a great passion on my major and enjoy conducting scientific research. I am determined to join the academia in the future.
 
 # Contact
 
