@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "CV"
 permalink: /
 author_profile: true
 redirect_from:
   - /resume
   - /cv/
 ---
+
+{% include base_path %}
 
 Hi, I am an undergraduate student from Shanghai Jiao Tong University (SJTU) ACM Honors Class, Zhiyuan College and major in computer science. I have a great passion on my major and enjoy conducting scientific research. I am determined to join the academia in the future.
 
