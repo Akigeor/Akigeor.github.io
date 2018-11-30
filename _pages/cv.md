@@ -10,51 +10,53 @@ redirect_from:
 
 {% include base_path %}
 
+I am an undergraduate student from Shanghai Jiao Tong University (SJTU) ACM Honors Class**, **Zhiyuan College (an honors college) and major in computer science. I have a great passion on my major and enjoy conducting scientific research. I am determined to join the academia in the future.
+
+# Contact
+
+Email: qiuwenda [at] sjtu [dot] edu [dot] cn
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- B.S. in **Shanghai Jiao Tong University** from 2015.9 to 2019.6 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  **ACM Honors Class**, **Zhiyuan College**, Department of Computer Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018.7--2018.12: Research Assistant
+  * University of Illinois at Urbana-Champaign
+  * Entity Set Expansion
+* 2017.7--2018.6: Research Assistant
+  * Shanghai Jiao Tong University
+  * Image style transfer
+* 2015.6--2017.5: SJTU ACM-ICPC Team Member
+  * Member of Team New Meta in World Finals 2017
+* 2017.6--2018.4: SJTU ACM-ICPC Team Leader
+  * Leader of Team Nightfall in World Finals 2018
+# Awards
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- ACM-ICPC World Final 2018, **8th** Place, Silver Medal
+- ACM-ICPC World Final 2017, 13th Place
+- The 2017 ACM-ICPC Asia Beijing Regional Contest, **2nd** Place, Gold Medal
+- The 2016 ACM-ICPC Asia Tsukuba Regional, **1st** Place, Gold Medal
+
+ACM-ICPC stands for ACM International Collegiate Programming Contest. You may find a full list of my ICPC awards at [icpc.baylor.edu/ICPCID/TSIL76L1GG4Y]().
+
+- Zhiyuan Honorary Scholarship 2016, 2017
+- National Olympiad in Informatics of China, Silver Medal
+
+# Projects
+
+- Advanced Data Structure
+  - Y-Fast-Trie
+  - Dominator Tree
+  - Rank-pairing-Heap
+- MIPS CPU
+  - Implemented a CPU with five-stage MIPS pipeline using Verilog
+- Benchmark for Visual Question Answering
+  - An effective evaluation method involving focus map analysis
+- Attack on Image-to-image Networks
+  - Experiments on adversarial examples
+- Next Frame Synthesizing
+  - Applied $\beta$-VAE and optical flow in frame synthesizing task
