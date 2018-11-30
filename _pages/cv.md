@@ -8,9 +8,7 @@ redirect_from:
   - /cv/
 ---
 
-{% include base_path %}
-
-Hi, I am an undergraduate student from Shanghai Jiao Tong University (SJTU) ACM Honors Class, Zhiyuan College (an honors college) and major in computer science. I have a great passion on my major and enjoy conducting scientific research. I am determined to join the academia in the future.
+Hi, I am an undergraduate student from Shanghai Jiao Tong University (SJTU) ACM Honors Class, Zhiyuan College and major in computer science. I have a great passion on my major and enjoy conducting scientific research. I am determined to join the academia in the future.
 
 # Contact
 
@@ -33,6 +31,7 @@ Experience
   * Member of Team New Meta in World Finals 2017
 * 2017.6--2018.4: SJTU ACM-ICPC Team Leader
   * Leader of Team Nightfall in World Finals 2018
+
 # Awards
 
 - ACM-ICPC World Final 2018, **8th** Place, Silver Medal
