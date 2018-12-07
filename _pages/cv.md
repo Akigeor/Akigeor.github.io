@@ -43,7 +43,7 @@ Experience
 ACM-ICPC stands for ACM International Collegiate Programming Contest. You may find a full list of my ICPC awards at [icpc.baylor.edu/ICPCID/TSIL76L1GG4Y]().
 
 - Zhiyuan Honorary Scholarship 2016, 2017
-- National Olympiad in Informatics of China, Silver Medal
+- The 2014 National Olympiad in Informatics of China, Silver Medal
 
 # Projects
 
