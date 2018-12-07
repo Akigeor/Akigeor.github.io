@@ -17,8 +17,8 @@ Email: qiuwenda [at] sjtu [dot] edu [dot] cn
 
 Education
 ======
-- B.S. in **Shanghai Jiao Tong University** from 2015.9 to 2019.6 (expected)
-  - **ACM Honors Class**, **Zhiyuan College**, Department of Computer Science
+- B.E. in Computer Science and Technology, from 2015.9 to 2019.6 (expected)
+  - **ACM Honors Class**, **Zhiyuan College**, **Shanghai Jiao Tong University**
 
 Experience
 ======
@@ -35,10 +35,10 @@ Experience
 
 # Awards
 
-- ACM-ICPC World Final 2018, **8th** Place, Silver Medal
-- ACM-ICPC World Final 2017, 13th Place
+- ACM-ICPC World Finals 2018, **8th** Place, Silver Medal
+- ACM-ICPC World Finals 2017, 13th Place
 - The 2017 ACM-ICPC Asia Beijing Regional Contest, **2nd** Place, Gold Medal
-- The 2016 ACM-ICPC Asia Tsukuba Regional, **1st** Place, Gold Medal
+- The 2016 ACM-ICPC Asia Tsukuba Regional Contest, **1st** Place, Gold Medal
 
 ACM-ICPC stands for ACM International Collegiate Programming Contest. You may find a full list of my ICPC awards at [icpc.baylor.edu/ICPCID/TSIL76L1GG4Y]().
 
