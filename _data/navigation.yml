@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV (PDF)"
-    url: /files/Wenda Qiu CV.pdf
+  #- title: "CV (PDF)"
+  #  url: /files/Wenda Qiu CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
